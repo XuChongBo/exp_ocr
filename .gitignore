@@ -1,0 +1,12 @@
+
+*.png
+
+a/t.t
+
+b
+
+ocropus-gpageseg
+
+ocropus-sauvola
+
+plot_threshold_adaptive.py
